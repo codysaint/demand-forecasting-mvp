@@ -1,0 +1,7 @@
+pandas
+Flask
+gunicorn
+gevent
+flask-cors
+lightgbm
+matplotlib
